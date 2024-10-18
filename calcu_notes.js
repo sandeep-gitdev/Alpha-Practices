@@ -1,4 +1,4 @@
-// Calulate minimum number for notes
+// Calulate minimum notes for given amount
 
 let notes = [500, 200, 100, 50, 20, 10, 5, 2, 1]
 let amount = 1111;
